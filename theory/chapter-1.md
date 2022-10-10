@@ -1264,4 +1264,4 @@ logSomething();
 
 </div>
 
-- [Тесты для главы 1](./test/chapter-1.md)
+- [Тесты для главы 1](/test/chapter-1.md)
