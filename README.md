@@ -13,6 +13,7 @@
 - [Обязательное введение](./theory/intro.md)
 - [Глава 1. Общее представление](./theory/chapter-1.md)
 - [Глава 2. Константы и переменные](./theory/chapter-2.md)
+- [Глава 3. Функции](./theory/chapter-3.md)
 
 
 <div align="center">
